@@ -2,7 +2,7 @@ config_version=5
 
 [application]
 
-config/name="M08. Start a Dialogue (Solutions)"
+config/name="M08. Start a Dialogue (Workbook)"
 config/features=PackedStringArray("4.5")
 config/icon="res://icon_start_a_dialog.png"
 
